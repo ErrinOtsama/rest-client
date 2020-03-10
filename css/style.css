@@ -1,0 +1,21 @@
+body {
+	height: auto;
+}
+thead{
+	background: rgb(20,0,246);
+	background: linear-gradient(250deg, rgba(20,0,246,1) 0%, 
+		rgba(79,211,219,1) 100%);
+	color: white;
+}
+.container {
+	margin: 100px auto;
+	padding: 10px 20px 20px 20px;
+	box-shadow: 0px 10px 20px 0px #1df5fd;
+	background: rgb(90,1,193);
+	background: linear-gradient(90deg, rgba(90,1,193,1) 0%, rgba(57,68,180,1) 50%, 
+		rgba(0,212,255,1) 100%);
+}
+
+label, td, h1 {
+	color: white;
+}
